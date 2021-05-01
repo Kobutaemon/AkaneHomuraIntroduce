@@ -1,0 +1,14 @@
+.heading span{
+    color: #FF1A6F;
+}
+
+.heading span1{
+    color: #FF82B2;
+}
+
+.heading{
+    color: white;
+    font-size: 30px;
+    padding-left: 25%;
+    background-color: #191970;
+}
