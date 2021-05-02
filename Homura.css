@@ -1,3 +1,16 @@
+body{
+    background: #D7EEFF	;
+}
+
+.heading{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    background-color: #191970;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 .heading span{
     color: #FF1A6F;
 }
@@ -6,9 +19,14 @@
     color: #FF82B2;
 }
 
-.heading{
-    color: white;
-    font-size: 30px;
-    padding-left: 25%;
-    background-color: #191970;
+.first{
+    padding-top: 2%;
+}
+
+.heading2 h2{
+    padding-top: 5%;
+}
+
+.work_detail h2{
+    padding-top: 5%;
 }
