@@ -20,8 +20,12 @@ body{
     color: #FF82B2;
 }
 
-.first{
-    padding-top: 2%;
+.icon img{
+    padding-top: 3%;
+}
+
+.icon span{
+    color: #8EF1FF;
 }
 
 .heading2 h2{
@@ -29,5 +33,34 @@ body{
 }
 
 .work_detail h2{
+    padding-top: 10%;
+}
+
+.work_detail p{
+    padding-top: 2%;
+}
+
+.work_detail ul p{
+    padding-left: 5%;
+}
+
+.good_office h2{
     padding-top: 5%;
+}
+
+.good_office span{
+    color: #FF82B2;
+}
+
+.good_office span2{
+    font-size: 60px;
+}
+
+.last h2{
+    padding-top: 5%;
+}
+
+footer{
+    padding-bottom: 15%;
+    background: #93FFAB;
 }
